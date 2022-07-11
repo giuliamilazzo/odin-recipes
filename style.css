@@ -1,0 +1,59 @@
+body {
+  background: #f4bb29;
+  margin: 30px;
+  padding: 60px;
+}
+
+
+.container {
+background: #ffff;
+margin: auto;
+border-radius: 10px;
+width: 700px;
+}
+
+h1, h2 {
+text-align: center;
+font: 30px monospace;
+padding: 20px;
+}
+
+h3 {
+text-align: left;
+font: 25px monospace;
+margin: 10px;
+}
+
+.img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 30px;
+width: 45%;
+
+}
+
+#index-links {
+  list-style-type: none;
+  font: 25px monospace;
+  padding-bottom: 30px;
+  margin: 15px;
+  text-align: center;
+  
+}
+
+.description {
+  font: 20px monospace;
+  margin: 15px;
+}
+
+.ingredients {
+  list-style-type: none;
+  font: 20px monospace;
+}
+
+ol {
+  font: 20px monospace;
+  padding-bottom: 30px;
+  margin: 15px;
+}
